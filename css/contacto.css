@@ -41,7 +41,8 @@ a, p, .home{
 }
 
 .container{
-    height: 700px;;
+    height: 600px;
+    width: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,18 +50,19 @@ a, p, .home{
 }
 
 form{
-    width: 400px;
-    height: 400px;
-    background-color: rgb(245, 236, 153);
+    width: 90%;
+    height: 50%;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     text-align: center;
     border-radius: 50% 5%;
+    border-style: none;
     font-family: 'Courier New', Courier, monospace;
-    color: black;
-    font-size: 16px;
-    font-weight: 500;
+    color: rgb(28, 3, 172);
+    font-size: 18px;
+    font-weight: 600;
+    z-index: 2;
 }
 
 label input{
@@ -72,20 +74,25 @@ label input{
 
 }
 
-.form-logo{
-    width: 10px;
-    height: 5px; 
-    color: black;
-    background-color: rgb(7, 10, 10);
-    border-radius: 3px 3px;
-    display: flex;
-    justify-content: flex-end;
 
-}
-
-input{
-    border-radius: 3px 3px;
-    border-color: rgb(145, 150, 150);
+.form-control{
+    border-radius: 5px 5px;
+    border-color: rgb(113, 124, 224);
     
 }
+.button{
+    width: 17gitrem;
+    height: 2rem;
+    border-radius: 10px 10px;
+}
 
+.paper{
+    width: 25em;
+    height: 0em;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    z-index: 1;
+    
+}

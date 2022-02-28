@@ -70,15 +70,6 @@ body{
     
 }
 
-.paper{
-    width: 50em;
-    height: 70em;
-    display: flex;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
-}
 
 .text-cv{
     height: 1000px;
