@@ -1,19 +1,16 @@
-*{
-    box-sizing: border-box;
-}
 
 body{
-    background-color: rgb(243, 243, 169);
-    margin: 0;
-    padding: 0;
+    background-color: rgb(255, 255, 255);
     display: flex;
-    justify-content: center;
+    align-items: center;
+    align-content: center;
     flex-direction: column;
 }
+
 .navbar{
     width: 100%;
     height: 100px;
-    background-color: azure;
+    background-color: rgb(169, 209, 172);
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -43,13 +40,28 @@ a, p, .home{
     align-items: flex-start;
 }
 
-.galery{
-
-
+.album{
+    height: 900px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
 }
 
-.foto{
+.galery{
     height: 100px;
     width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    position: relative;
 }

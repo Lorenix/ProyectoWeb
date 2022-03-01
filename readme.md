@@ -1,8 +1,8 @@
 ### Proyecto 2 📋 
 ***
-Realizar una consola con base en Html5 y CSS3, adjuntando readme y repositorio correspondiente.
+Realizar una Web-CV con 3 ficheros: home, contacto y portfolio. Con bases de Html5 y CSS3, adjuntando readme y repositorio correspondiente.
 
-### [ Web personal] 🎮 (Githubpages.io) 🖱
+### [ Web personal] 👩🏻‍💻 (Githubpages.io) 🖱
 ## Tecnologías 💻
 ***
 Una lista de las tecnologías utilizadas en el proyecto:
@@ -12,7 +12,7 @@ Una lista de las tecnologías utilizadas en el proyecto:
 * [Github](https://github.com/)
 ## Edición ✒️
 ***
-Desarrollado con Html5 y CSS3 mediante Visual Studio Code e inspección en navegador Chrome. Repositorio en plataforma Github, mediante consola del editor.
+Desarrollado con Html5 y CSS3 mediante Visual Studio Code e inspección Chrome. Repositorio en plataforma Github, mediante consola de editor.
 
 #### Autora 👩🏻
 ***
